@@ -1,0 +1,12 @@
+{
+  "name": "vue-matrix-digit-rain",
+  "version": "1.0.0",
+  "description": "A Vue component of Matrix's digit raindrop effect",
+  "main": "vue-matrix-raindrop.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["vue","matrix","raindrop","canvas"],
+  "author": "sbw",
+  "license": "ISC"
+}
