@@ -1,5 +1,5 @@
 # vue-matrix-raindrop
-A Vue component of Matrix's digit raindrop effect<br><br>
+基于Vue的黑客帝国数字雨特效实现<br><br>
 ![img](https://github.com/houzisbw/vue-matrix-raindrop/blob/master/imgs/rain.gif)
 
 # Installation
